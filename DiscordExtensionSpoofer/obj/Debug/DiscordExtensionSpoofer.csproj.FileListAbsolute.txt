@@ -1,0 +1,16 @@
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\DiscordExtensionSpoofer.exe.config
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\DiscordExtensionSpoofer.exe
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\DiscordExtensionSpoofer.pdb
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\CommandDotNet.dll
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\obj\Debug\DiscordExtensionSpoofer.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\obj\Debug\DiscordExtensionSpoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\obj\Debug\DiscordExtensionSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\obj\Debug\DiscordExtensionSpoofer.csproj.CopyComplete
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\obj\Debug\DiscordExtensionSpoofer.exe
+C:\Users\frank\source\repos\DiscordExtensionSpoofer\DiscordExtensionSpoofer\obj\Debug\DiscordExtensionSpoofer.pdb
